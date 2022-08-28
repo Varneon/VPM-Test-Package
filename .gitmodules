@@ -1,0 +1,3 @@
+[submodule "Packages/com.varneon.udon-array-extensions"]
+	path = Packages/com.varneon.udon-array-extensions
+	url = https://github.com/Varneon/UdonArrayExtensions
